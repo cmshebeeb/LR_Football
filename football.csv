@@ -1,0 +1,1333 @@
+team,opponent,home_away,day_night,tactics,result
+Real Madrid,Barcelona,Home,Night,Balanced,Win
+Barcelona,Real Madrid,Away,Day,Offensive,Loss
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Balanced,Draw
+Bayern Munich,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Bayern Munich,Away,Night,Defensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Offensive,Win
+Marseille,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,AC Milan,Home,Day,Defensive,Draw
+AC Milan,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Liverpool,Home,Night,Offensive,Win
+Liverpool,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Barcelona,Away,Night,Offensive,Draw
+Manchester United,AC Milan,Home,Day,Defensive,Win
+AC Milan,Manchester United,Away,Night,Balanced,Loss
+Paris Saint-Germain,Bayern Munich,Home,Night,Offensive,Loss
+Bayern Munich,Paris Saint-Germain,Away,Day,Defensive,Win
+Juventus,Marseille,Home,Day,Balanced,Draw
+Marseille,Juventus,Away,Night,Offensive,Draw
+Real Madrid,AC Milan,Home,Night,Offensive,Win
+AC Milan,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Win
+Marseille,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Bayern Munich,Home,Night,Defensive,Draw
+Bayern Munich,Manchester United,Away,Day,Balanced,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Liverpool,Home,Night,Offensive,Loss
+Liverpool,Juventus,Away,Day,Defensive,Win
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Liverpool,Home,Night,Defensive,Win
+Liverpool,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Night,Defensive,Win
+AC Milan,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Juventus,Away,Night,Defensive,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Juventus,Away,Night,Offensive,Draw
+Liverpool,Marseille,Home,Night,Defensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+Juventus,Marseille,Home,Night,Offensive,Win
+Marseille,Juventus,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Day,Offensive,Win
+Liverpool,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Borussia Dortmund,Home,Night,Defensive,Draw
+Borussia Dortmund,Barcelona,Away,Day,Offensive,Draw
+Manchester United,AC Milan,Home,Day,Offensive,Win
+AC Milan,Manchester United,Away,Night,Balanced,Loss
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Borussia Dortmund,Home,Day,Defensive,Draw
+Borussia Dortmund,Juventus,Away,Night,Offensive,Draw
+Real Madrid,AC Milan,Home,Night,Offensive,Win
+AC Milan,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Win
+Marseille,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Manchester United,Away,Day,Balanced,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Liverpool,Home,Night,Offensive,Loss
+Liverpool,Juventus,Away,Day,Defensive,Win
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Liverpool,Home,Night,Defensive,Win
+Liverpool,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Night,Defensive,Win
+AC Milan,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Juventus,Away,Night,Defensive,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Juventus,Away,Night,Offensive,Draw
+Liverpool,Marseille,Home,Night,Defensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+Juventus,Paris Saint-Germain,Home,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Away,Night,Offensive,Win
+Liverpool,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Liverpool,Away,Day,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Balanced,Draw
+Borussia Dortmund,Marseille,Home,Night,Defensive,Win
+Marseille,Borussia Dortmund,Away,Day,Offensive,Loss
+Real Madrid,Liverpool,Home,Day,Offensive,Win
+Liverpool,Real Madrid,Away,Night,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Barcelona,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Barcelona,Away,Night,Balanced,Draw
+AC Milan,Marseille,Home,Night,Defensive,Win
+Marseille,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Juventus,Home,Day,Balanced,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Liverpool,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Liverpool,Away,Day,Defensive,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Loss
+Barcelona,Manchester United,Home,Day,Offensive,Loss
+Manchester United,Barcelona,Away,Night,Defensive,Win
+AC Milan,Real Madrid,Home,Night,Balanced,Loss
+Real Madrid,AC Milan,Away,Day,Offensive,Win
+Juventus,Marseille,Home,Day,Defensive,Win
+Marseille,Juventus,Away,Night,Balanced,Loss
+Liverpool,Paris Saint-Germain,Home,Night,Offensive,Win
+Paris Saint-Germain,Liverpool,Away,Day,Balanced,Loss
+Bayern Munich,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Bayern Munich,Away,Night,Offensive,Draw
+Barcelona,Liverpool,Home,Day,Defensive,Win
+Liverpool,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Marseille,Home,Night,Balanced,Draw
+Marseille,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Day,Offensive,Win
+AC Milan,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Juventus,Away,Day,Offensive,Draw
+Real Madrid,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,AC Milan,Home,Night,Balanced,Loss
+AC Milan,Barcelona,Away,Day,Offensive,Win
+Manchester United,Borussia Dortmund,Home,Day,Offensive,Loss
+Borussia Dortmund,Manchester United,Away,Night,Balanced,Win
+Juventus,Bayern Munich,Home,Night,Defensive,Draw
+Bayern Munich,Juventus,Away,Day,Offensive,Draw
+Liverpool,Marseille,Home,Day,Balanced,Win
+Marseille,Liverpool,Away,Night,Offensive,Loss
+Real Madrid,Juventus,Home,Night,Balanced,Win
+Juventus,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Bayern Munich,Home,Day,Defensive,Draw
+Bayern Munich,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Night,Offensive,Win
+Paris Saint-Germain,Manchester United,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Draw
+Liverpool,Paris Saint-Germain,Home,Night,Offensive,Loss
+Paris Saint-Germain,Liverpool,Away,Day,Defensive,Win
+Barcelona,Marseille,Home,Day,Balanced,Draw
+Marseille,Barcelona,Away,Night,Offensive,Draw
+Juventus,Manchester United,Home,Night,Balanced,Win
+Manchester United,Juventus,Away,Day,Offensive,Loss
+Real Madrid,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Loss
+AC Milan,Liverpool,Home,Night,Offensive,Loss
+Liverpool,AC Milan,Away,Day,Defensive,Win
+Bayern Munich,Marseille,Home,Day,Balanced,Draw
+Marseille,Bayern Munich,Away,Night,Offensive,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Defensive,Loss
+Barcelona,Juventus,Home,Day,Defensive,Win
+Juventus,Barcelona,Away,Night,Balanced,Loss
+Manchester United,Real Madrid,Home,Night,Offensive,Loss
+Real Madrid,Manchester United,Away,Day,Defensive,Win
+Juventus,Borussia Dortmund,Away,Night,Balanced,Draw
+Borussia Dortmund,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Paris Saint-Germain,Away,Night,Offensive,Loss
+Paris Saint-Germain,Real Madrid,Home,Day,Defensive,Win
+Barcelona,Manchester United,Away,Night,Balanced,Draw
+Manchester United,Barcelona,Home,Day,Offensive,Draw
+AC Milan,Liverpool,Away,Night,Defensive,Loss
+Liverpool,AC Milan,Home,Day,Offensive,Win
+Bayern Munich,Marseille,Away,Night,Offensive,Draw
+Marseille,Bayern Munich,Home,Day,Defensive,Draw
+Juventus,Paris Saint-Germain,Away,Day,Defensive,Loss
+Paris Saint-Germain,Juventus,Home,Night,Offensive,Win
+Real Madrid,Borussia Dortmund,Away,Night,Defensive,Loss
+Borussia Dortmund,Real Madrid,Home,Day,Offensive,Win
+Barcelona,Marseille,Away,Night,Balanced,Draw
+Marseille,Barcelona,Home,Day,Offensive,Draw
+Manchester United,Bayern Munich,Away,Night,Defensive,Loss
+Bayern Munich,Manchester United,Home,Day,Balanced,Win
+AC Milan,Paris Saint-Germain,Away,Day,Balanced,Loss
+Paris Saint-Germain,AC Milan,Home,Night,Offensive,Win
+Juventus,Liverpool,Away,Night,Offensive,Draw
+Liverpool,Juventus,Home,Day,Defensive,Draw
+Real Madrid,Manchester United,Away,Night,Offensive,Draw
+Manchester United,Real Madrid,Home,Day,Defensive,Draw
+Barcelona,Borussia Dortmund,Away,Night,Offensive,Loss
+Borussia Dortmund,Barcelona,Home,Day,Balanced,Win
+AC Milan,Bayern Munich,Away,Night,Balanced,Draw
+Bayern Munich,AC Milan,Home,Day,Offensive,Draw
+Paris Saint-Germain,Marseille,Away,Night,Offensive,Win
+Marseille,Paris Saint-Germain,Home,Day,Defensive,Loss
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Manchester United,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Liverpool,Away,Night,Balanced,Loss
+Liverpool,Real Madrid,Home,Day,Defensive,Win
+Barcelona,Bayern Munich,Away,Night,Balanced,Win
+Bayern Munich,Barcelona,Home,Day,Offensive,Loss
+AC Milan,Borussia Dortmund,Away,Night,Defensive,Loss
+Borussia Dortmund,AC Milan,Home,Day,Offensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Defensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Offensive,Draw
+Juventus,Bayern Munich,Away,Night,Balanced,Draw
+Bayern Munich,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Marseille,Away,Night,Offensive,Loss
+Marseille,Real Madrid,Home,Day,Defensive,Win
+Liverpool,Borussia Dortmund,Away,Night,Balanced,Draw
+Borussia Dortmund,Liverpool,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Offensive,Draw
+AC Milan,Barcelona,Home,Day,Balanced,Draw
+Manchester United,Paris Saint-Germain,Away,Night,Balanced,Loss
+Paris Saint-Germain,Manchester United,Home,Day,Offensive,Win
+Juventus,Liverpool,Away,Night,Defensive,Loss
+Liverpool,Juventus,Home,Day,Offensive,Win
+Real Madrid,Borussia Dortmund,Away,Night,Offensive,Win
+Borussia Dortmund,Real Madrid,Home,Day,Defensive,Loss
+Barcelona,Manchester United,Away,Night,Defensive,Win
+Manchester United,Barcelona,Home,Day,Offensive,Loss
+AC Milan,Marseille,Away,Night,Offensive,Loss
+Marseille,AC Milan,Home,Day,Defensive,Win
+Paris Saint-Germain,Bayern Munich,Away,Night,Balanced,Loss
+Bayern Munich,Paris Saint-Germain,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Draw
+Real Madrid,Juventus,Home,Day,Offensive,Draw
+Liverpool,Barcelona,Away,Night,Defensive,Win
+Barcelona,Liverpool,Home,Day,Offensive,Loss
+Manchester United,Borussia Dortmund,Away,Night,Balanced,Win
+Borussia Dortmund,Manchester United,Home,Day,Offensive,Loss
+AC Milan,Bayern Munich,Away,Night,Offensive,Win
+Bayern Munich,AC Milan,Home,Day,Defensive,Loss
+Paris Saint-Germain,Marseille,Away,Night,Defensive,Win
+Marseille,Paris Saint-Germain,Home,Day,Offensive,Loss
+Juventus,Manchester United,Away,Night,Balanced,Win
+Manchester United,Juventus,Home,Day,Offensive,Loss
+Real Madrid,Liverpool,Away,Night,Offensive,Loss
+Liverpool,Real Madrid,Home,Day,Defensive,Win
+Barcelona,Bayern Munich,Away,Night,Defensive,Win
+Bayern Munich,Barcelona,Home,Day,Offensive,Loss
+AC Milan,Borussia Dortmund,Away,Night,Offensive,Draw
+Borussia Dortmund,AC Milan,Home,Day,Balanced,Draw
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Win
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Loss
+Juventus,Bayern Munich,Away,Night,Balanced,Loss
+Bayern Munich,Juventus,Home,Day,Offensive,Win
+Real Madrid,Marseille,Away,Night,Defensive,Loss
+Marseille,Real Madrid,Home,Day,Offensive,Win
+Liverpool,Borussia Dortmund,Away,Night,Offensive,Loss
+Borussia Dortmund,Liverpool,Home,Day,Defensive,Win
+Barcelona,AC Milan,Away,Night,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Away,Night,Defensive,Loss
+Paris Saint-Germain,Manchester United,Home,Day,Offensive,Win
+Juventus,Liverpool,Away,Night,Balanced,Draw
+Liverpool,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Borussia Dortmund,Away,Night,Offensive,Loss
+Borussia Dortmund,Real Madrid,Home,Day,Defensive,Win
+Barcelona,Manchester United,Away,Night,Balanced,Draw
+Manchester United,Barcelona,Home,Day,Offensive,Draw
+AC Milan,Marseille,Away,Night,Defensive,Loss
+Marseille,AC Milan,Home,Day,Offensive,Win
+Paris Saint-Germain,Bayern Munich,Away,Night,Offensive,Win
+Bayern Munich,Paris Saint-Germain,Home,Day,Defensive,Loss
+Juventus,Real Madrid,Away,Night,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Liverpool,Barcelona,Away,Night,Defensive,Loss
+Barcelona,Liverpool,Home,Day,Offensive,Win
+Manchester United,Borussia Dortmund,Away,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Home,Day,Offensive,Loss
+AC Milan,Bayern Munich,Away,Night,Balanced,Draw
+Bayern Munich,AC Milan,Home,Day,Offensive,Draw
+Paris Saint-Germain,Marseille,Away,Night,Offensive,Loss
+Marseille,Paris Saint-Germain,Home,Day,Defensive,Win
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Manchester United,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Liverpool,Away,Night,Offensive,Win
+Liverpool,Real Madrid,Home,Day,Defensive,Loss
+Barcelona,Bayern Munich,Away,Night,Defensive,Win
+Bayern Munich,Barcelona,Home,Day,Offensive,Loss
+AC Milan,Borussia Dortmund,Away,Night,Offensive,Draw
+Borussia Dortmund,AC Milan,Home,Day,Balanced,Draw
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Win
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Loss
+Juventus,Bayern Munich,Away,Night,Balanced,Loss
+Bayern Munich,Juventus,Home,Day,Offensive,Win
+Real Madrid,Marseille,Away,Night,Defensive,Loss
+Marseille,Real Madrid,Home,Day,Offensive,Win
+Liverpool,Borussia Dortmund,Away,Night,Offensive,Loss
+Borussia Dortmund,Liverpool,Home,Day,Defensive,Win
+Barcelona,AC Milan,Away,Night,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Away,Night,Defensive,Loss
+Paris Saint-Germain,Manchester United,Home,Day,Offensive,Win
+Juventus,Liverpool,Away,Night,Balanced,Draw
+Liverpool,Juventus,Home,Day,Offensive,Draw
+Real Madrid,Borussia Dortmund,Away,Night,Offensive,Loss
+Borussia Dortmund,Real Madrid,Home,Day,Defensive,Win
+Barcelona,Manchester United,Away,Night,Balanced,Draw
+Manchester United,Barcelona,Home,Day,Offensive,Draw
+AC Milan,Marseille,Away,Night,Defensive,Loss
+Marseille,AC Milan,Home,Day,Offensive,Win
+Paris Saint-Germain,Bayern Munich,Away,Night,Offensive,Win
+Bayern Munich,Paris Saint-Germain,Home,Day,Defensive,Loss
+Juventus,Real Madrid,Away,Night,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Liverpool,Barcelona,Away,Night,Defensive,Loss
+Barcelona,Liverpool,Home,Day,Offensive,Win
+Manchester United,Borussia Dortmund,Away,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Home,Day,Offensive,Loss
+AC Milan,Bayern Munich,Away,Night,Balanced,Draw
+Bayern Munich,AC Milan,Home,Day,Offensive,Draw
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+AC Milan,Bayern Munich,Home,Day,Defensive,Win
+Bayern Munich,AC Milan,Away,Night,Balanced,Loss
+Liverpool,Barcelona,Home,Day,Offensive,Draw
+Barcelona,Liverpool,Away,Night,Defensive,Draw
+Marseille,Paris Saint-Germain,Home,Night,Balanced,Loss
+Paris Saint-Germain,Marseille,Away,Day,Offensive,Win
+Manchester United,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,Manchester United,Away,Night,Offensive,Win
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Paris Saint-Germain,Home,Day,Offensive,Draw
+Paris Saint-Germain,Real Madrid,Away,Night,Defensive,Draw
+Barcelona,AC Milan,Home,Night,Balanced,Loss
+AC Milan,Barcelona,Away,Day,Offensive,Win
+Manchester United,Liverpool,Home,Day,Balanced,Draw
+Liverpool,Manchester United,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Day,Defensive,Win
+Bayern Munich,Juventus,Away,Night,Balanced,Loss
+Real Madrid,AC Milan,Home,Night,Offensive,Draw
+AC Milan,Real Madrid,Away,Day,Defensive,Draw
+Barcelona,Borussia Dortmund,Home,Day,Balanced,Win
+Borussia Dortmund,Barcelona,Away,Night,Offensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Defensive,Loss
+Marseille,Paris Saint-Germain,Away,Day,Offensive,Win
+Manchester United,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Manchester United,Away,Night,Offensive,Draw
+Juventus,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Juventus,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Day,Balanced,Draw
+Liverpool,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Marseille,Home,Night,Defensive,Loss
+Marseille,Barcelona,Away,Day,Offensive,Win
+Paris Saint-Germain,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Paris Saint-Germain,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Paris Saint-Germain,Home,Day,Offensive,Loss
+Paris Saint-Germain,Real Madrid,Away,Night,Balanced,Win
+Barcelona,AC Milan,Home,Night,Offensive,Draw
+AC Milan,Barcelona,Away,Day,Defensive,Draw
+Manchester United,Borussia Dortmund,Home,Day,Balanced,Win
+Borussia Dortmund,Manchester United,Away,Night,Offensive,Loss
+Juventus,Bayern Munich,Home,Night,Defensive,Draw
+Bayern Munich,Juventus,Away,Day,Balanced,Draw
+Liverpool,Marseille,Home,Night,Offensive,Win
+Marseille,Liverpool,Away,Day,Defensive,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+AC Milan,Barcelona,Home,Night,Offensive,Draw
+Barcelona,AC Milan,Away,Day,Defensive,Draw
+Liverpool,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Liverpool,Away,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Home,Day,Offensive,Draw
+Juventus,Paris Saint-Germain,Away,Night,Balanced,Draw
+Marseille,Real Madrid,Home,Night,Defensive,Loss
+Real Madrid,Marseille,Away,Day,Offensive,Win
+Real Madrid,Barcelona,Home,Night,Balanced,Win
+Barcelona,Real Madrid,Away,Day,Offensive,Loss
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Balanced,Draw
+Bayern Munich,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Bayern Munich,Away,Night,Defensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Offensive,Win
+Marseille,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,AC Milan,Home,Day,Defensive,Draw
+AC Milan,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Liverpool,Home,Night,Offensive,Win
+Liverpool,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Barcelona,Away,Night,Offensive,Draw
+Manchester United,AC Milan,Home,Day,Defensive,Win
+AC Milan,Manchester United,Away,Night,Balanced,Loss
+Paris Saint-Germain,Bayern Munich,Home,Night,Offensive,Loss
+Bayern Munich,Paris Saint-Germain,Away,Day,Defensive,Win
+Juventus,Marseille,Home,Day,Balanced,Draw
+Marseille,Juventus,Away,Night,Offensive,Draw
+Real Madrid,AC Milan,Home,Night,Offensive,Win
+AC Milan,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Win
+Marseille,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Bayern Munich,Home,Night,Defensive,Draw
+Bayern Munich,Manchester United,Away,Day,Balanced,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Liverpool,Home,Night,Offensive,Loss
+Liverpool,Juventus,Away,Day,Defensive,Win
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Liverpool,Home,Night,Defensive,Win
+Liverpool,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Night,Defensive,Win
+AC Milan,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Juventus,Away,Night,Defensive,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Juventus,Away,Night,Offensive,Draw
+Liverpool,Marseille,Home,Night,Defensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+Juventus,Paris Saint-Germain,Home,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Away,Night,Offensive,Win
+Liverpool,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Liverpool,Away,Day,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Balanced,Draw
+Borussia Dortmund,Marseille,Home,Night,Defensive,Win
+Marseille,Borussia Dortmund,Away,Day,Offensive,Loss
+Real Madrid,Liverpool,Home,Day,Offensive,Win
+Liverpool,Real Madrid,Away,Night,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Barcelona,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Barcelona,Away,Night,Balanced,Draw
+AC Milan,Marseille,Home,Night,Defensive,Win
+Marseille,AC Milan,Away,Day,Offensive,Win
+Real Madrid,Barcelona,Home,Night,Balanced,Win
+Barcelona,Real Madrid,Away,Day,Offensive,Loss
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Balanced,Draw
+Bayern Munich,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Bayern Munich,Away,Night,Defensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Offensive,Win
+Marseille,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,AC Milan,Home,Day,Defensive,Draw
+AC Milan,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Liverpool,Home,Night,Offensive,Win
+Liverpool,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Barcelona,Away,Night,Offensive,Draw
+Manchester United,AC Milan,Home,Day,Defensive,Win
+AC Milan,Manchester United,Away,Night,Balanced,Loss
+Paris Saint-Germain,Bayern Munich,Home,Night,Offensive,Loss
+Bayern Munich,Paris Saint-Germain,Away,Day,Defensive,Win
+Juventus,Marseille,Home,Day,Balanced,Draw
+Marseille,Juventus,Away,Night,Offensive,Draw
+Real Madrid,AC Milan,Home,Night,Offensive,Win
+AC Milan,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Win
+Marseille,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Bayern Munich,Home,Night,Defensive,Draw
+Bayern Munich,Manchester United,Away,Day,Balanced,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Liverpool,Home,Night,Offensive,Loss
+Liverpool,Juventus,Away,Day,Defensive,Win
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Liverpool,Home,Night,Defensive,Win
+Liverpool,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Night,Defensive,Win
+AC Milan,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Juventus,Away,Night,Defensive,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Juventus,Away,Night,Offensive,Draw
+Liverpool,Marseille,Home,Night,Defensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+Juventus,Paris Saint-Germain,Home,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Away,Night,Offensive,Win
+Liverpool,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Liverpool,Away,Day,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Balanced,Draw
+Borussia Dortmund,Marseille,Home,Night,Defensive,Win
+Marseille,Borussia Dortmund,Away,Day,Offensive,Loss
+Real Madrid,Liverpool,Home,Day,Offensive,Win
+Liverpool,Real Madrid,Away,Night,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Barcelona,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Barcelona,Away,Night,Balanced,Draw
+AC Milan,Marseille,Home,Night,Defensive,Win
+Marseille,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Juventus,Away,Night,Offensive,Draw
+Liverpool,Marseille,Home,Night,Defensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Juventus,Home,Day,Offensive,Win
+Juventus,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Home,Day,Defensive,Draw
+Paris Saint-Germain,Liverpool,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Offensive,Win
+Marseille,Barcelona,Away,Day,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Real Madrid,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+AC Milan,Liverpool,Home,Day,Balanced,Loss
+Liverpool,AC Milan,Away,Night,Offensive,Win
+Bayern Munich,Marseille,Home,Night,Defensive,Win
+Marseille,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Real Madrid,Home,Day,Offensive,Draw
+Real Madrid,Manchester United,Away,Night,Defensive,Draw
+Juventus,Paris Saint-Germain,Home,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Away,Night,Offensive,Win
+Liverpool,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Liverpool,Away,Day,Defensive,Draw
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Balanced,Draw
+Borussia Dortmund,Marseille,Home,Night,Defensive,Win
+Marseille,Borussia Dortmund,Away,Day,Offensive,Loss
+Real Madrid,Liverpool,Home,Day,Offensive,Win
+Liverpool,Real Madrid,Away,Night,Defensive,Loss
+Juventus,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Juventus,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Barcelona,Borussia Dortmund,Home,Day,Offensive,Draw
+Borussia Dortmund,Barcelona,Away,Night,Balanced,Draw
+AC Milan,Marseille,Home,Night,Defensive,Win
+Marseille,AC Milan,Away,Day,Offensive,Draw
+Real Madrid,Bayern Munich,Home,Day,Offensive,Draw
+Bayern Munich,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Offensive,Draw
+AC Milan,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Loss
+Liverpool,Marseille,Home,Day,Offensive,Win
+Marseille,Liverpool,Away,Night,Defensive,Loss
+Real Madrid,Liverpool,Home,Night,Defensive,Win
+Liverpool,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Manchester United,Home,Day,Balanced,Draw
+Manchester United,Barcelona,Away,Night,Offensive,Draw
+Bayern Munich,Juventus,Home,Night,Defensive,Win
+Juventus,Bayern Munich,Away,Day,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Night,Defensive,Loss
+AC Milan,Marseille,Home,Night,Balanced,Win
+Marseille,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Barcelona,Home,Day,Balanced,Draw
+Barcelona,Real Madrid,Away,Night,Defensive,Draw
+Manchester United,Paris Saint-Germain,Home,Night,Offensive,Win
+Paris Saint-Germain,Manchester United,Away,Day,Defensive,Loss
+Juventus,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Juventus,Away,Night,Offensive,Loss
+Liverpool,Borussia Dortmund,Home,Night,Defensive,Draw
+Borussia Dortmund,Liverpool,Away,Day,Balanced,Draw
+AC Milan,Marseille,Home,Day,Offensive,Win
+Marseille,AC Milan,Away,Night,Defensive,Loss
+Real Madrid,Manchester United,Home,Night,Offensive,Win
+Manchester United,Real Madrid,Away,Day,Defensive,Loss
+Barcelona,Bayern Munich,Home,Day,Offensive,Draw
+Bayern Munich,Barcelona,Away,Night,Balanced,Draw
+Paris Saint-Germain,Juventus,Home,Night,Defensive,Win
+Juventus,Paris Saint-Germain,Away,Day,Offensive,Loss
+Liverpool,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Liverpool,Away,Night,Offensive,Draw
+AC Milan,Barcelona,Home,Night,Defensive,Win
+Barcelona,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Marseille,Home,Day,Balanced,Draw
+Marseille,Real Madrid,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Balanced,Loss
+Paris Saint-Germain,Liverpool,Home,Day,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Juventus,Away,Day,Offensive,Draw
+AC Milan,Real Madrid,Home,Day,Defensive,Win
+Real Madrid,AC Milan,Away,Night,Offensive,Loss
+Barcelona,Borussia Dortmund,Home,Night,Balanced,Win
+Borussia Dortmund,Barcelona,Away,Day,Defensive,Loss
+Manchester United,Liverpool,Home,Day,Offensive,Win
+Liverpool,Manchester United,Away,Night,Defensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Balanced,Draw
+Marseille,Paris Saint-Germain,Away,Day,Offensive,Draw
+Juventus,AC Milan,Home,Day,Defensive,Win
+AC Milan,Juventus,Away,Night,Balanced,Loss
+Real Madrid,Liverpool,Home,Night,Offensive,Draw
+Liverpool,Real Madrid,Away,Day,Defensive,Draw
+Barcelona,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Barcelona,Away,Night,Balanced,Loss
+Manchester United,AC Milan,Home,Night,Defensive,Draw
+AC Milan,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Paris Saint-Germain,Away,Night,Defensive,Loss
+Juventus,Marseille,Home,Night,Offensive,Draw
+Marseille,Juventus,Away,Day,Balanced,Draw
+Real Madrid,AC Milan,Home,Day,Defensive,Win
+AC Milan,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Marseille,Home,Night,Balanced,Draw
+Marseille,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Bayern Munich,Home,Day,Defensive,Win
+Bayern Munich,Manchester United,Away,Night,Balanced,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Draw
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Defensive,Draw
+Juventus,Liverpool,Home,Day,Balanced,Win
+Liverpool,Juventus,Away,Night,Offensive,Loss
+Real Madrid,Borussia Dortmund,Home,Night,Balanced,Win
+Borussia Dortmund,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Liverpool,Home,Day,Defensive,Win
+Liverpool,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Marseille,Home,Night,Balanced,Draw
+Marseille,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,AC Milan,Home,Day,Defensive,Win
+AC Milan,Paris Saint-Germain,Away,Night,Balanced,Loss
+Juventus,Bayern Munich,Home,Night,Offensive,Draw
+Bayern Munich,Juventus,Away,Day,Balanced,Draw
+Real Madrid,Paris Saint-Germain,Home,Day,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,AC Milan,Home,Night,Offensive,Draw
+AC Milan,Barcelona,Away,Day,Balanced,Draw
+Manchester United,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,Manchester United,Away,Night,Offensive,Loss
+Juventus,Bayern Munich,Home,Night,Offensive,Win
+Bayern Munich,Juventus,Away,Day,Defensive,Loss
+Liverpool,Marseille,Home,Day,Balanced,Draw
+Marseille,Liverpool,Away,Night,Offensive,Draw
+Real Madrid,Juventus,Home,Night,Defensive,Win
+Juventus,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Bayern Munich,Home,Day,Offensive,Draw
+Bayern Munich,Barcelona,Away,Night,Defensive,Draw
+Manchester United,Paris Saint-Germain,Home,Night,Balanced,Win
+Paris Saint-Germain,Manchester United,Away,Day,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Defensive,Draw
+Borussia Dortmund,AC Milan,Away,Night,Balanced,Draw
+Liverpool,Paris Saint-Germain,Home,Night,Offensive,Win
+Paris Saint-Germain,Liverpool,Away,Day,Defensive,Loss
+Barcelona,Marseille,Home,Day,Offensive,Draw
+Marseille,Barcelona,Away,Night,Balanced,Draw
+Juventus,Manchester United,Home,Night,Defensive,Win
+Manchester United,Juventus,Away,Day,Offensive,Loss
+Real Madrid,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Balanced,Draw
+AC Milan,Liverpool,Home,Night,Defensive,Win
+Liverpool,AC Milan,Away,Day,Offensive,Loss
+Bayern Munich,Marseille,Home,Day,Balanced,Draw
+Marseille,Bayern Munich,Away,Night,Defensive,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Defensive,Loss
+Barcelona,Juventus,Home,Day,Balanced,Draw
+Juventus,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Real Madrid,Home,Night,Defensive,Win
+Real Madrid,Manchester United,Away,Day,Offensive,Loss
+Juventus,Paris Saint-Germain,Home,Day,Offensive,Win
+Paris Saint-Germain,Juventus,Away,Night,Defensive,Loss
+Liverpool,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Liverpool,Away,Day,Offensive,Draw
+AC Milan,Barcelona,Home,Day,Defensive,Win
+Barcelona,AC Milan,Away,Night,Balanced,Draw
+Borussia Dortmund,Marseille,Home,Night,Offensive,Win
+Marseille,Borussia Dortmund,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Day,Balanced,Draw
+Liverpool,Real Madrid,Away,Night,Offensive,Draw
+Juventus,Manchester United,Home,Night,Defensive,Win
+Manchester United,Juventus,Away,Day,Offensive,Loss
+Paris Saint-Germain,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Paris Saint-Germain,Away,Night,Offensive,Draw
+Barcelona,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Barcelona,Away,Day,Balanced,Loss
+AC Milan,Marseille,Home,Day,Offensive,Draw
+Marseille,AC Milan,Away,Night,Balanced,Draw
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Paris Saint-Germain,Home,Day,Offensive,Win
+Paris Saint-Germain,Barcelona,Away,Night,Defensive,Loss
+Manchester United,Juventus,Home,Night,Balanced,Draw
+Juventus,Manchester United,Away,Day,Offensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Balanced,Loss
+Liverpool,Marseille,Home,Night,Offensive,Win
+Marseille,Liverpool,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Day,Balanced,Draw
+Liverpool,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Manchester United,Home,Night,Defensive,Win
+Manchester United,Barcelona,Away,Day,Offensive,Loss
+Bayern Munich,Juventus,Home,Day,Balanced,Draw
+Juventus,Bayern Munich,Away,Night,Defensive,Draw
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Balanced,Loss
+AC Milan,Marseille,Home,Day,Offensive,Win
+Marseille,AC Milan,Away,Night,Defensive,Loss
+Real Madrid,Barcelona,Home,Night,Balanced,Draw
+Barcelona,Real Madrid,Away,Day,Defensive,Draw
+Manchester United,Paris Saint-Germain,Home,Day,Offensive,Win
+Paris Saint-Germain,Manchester United,Away,Night,Defensive,Loss
+Juventus,Bayern Munich,Home,Night,Balanced,Draw
+Bayern Munich,Juventus,Away,Day,Offensive,Draw
+Liverpool,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,Liverpool,Away,Night,Balanced,Loss
+AC Milan,Barcelona,Home,Night,Offensive,Win
+Barcelona,AC Milan,Away,Day,Defensive,Loss
+Real Madrid,Marseille,Home,Day,Offensive,Draw
+Marseille,Real Madrid,Away,Night,Balanced,Draw
+Manchester United,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Offensive,Loss
+Paris Saint-Germain,Liverpool,Home,Day,Balanced,Draw
+Liverpool,Paris Saint-Germain,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Defensive,Loss
+AC Milan,Real Madrid,Home,Day,Offensive,Win
+Real Madrid,AC Milan,Away,Night,Balanced,Loss
+Barcelona,Borussia Dortmund,Home,Night,Defensive,Draw
+Borussia Dortmund,Barcelona,Away,Day,Offensive,Draw
+Manchester United,Liverpool,Home,Day,Balanced,Win
+Liverpool,Manchester United,Away,Night,Offensive,Loss
+Paris Saint-Germain,Marseille,Home,Night,Defensive,Draw
+Marseille,Paris Saint-Germain,Away,Day,Offensive,Draw
+Juventus,AC Milan,Home,Day,Balanced,Win
+AC Milan,Juventus,Away,Night,Defensive,Loss
+Real Madrid,Liverpool,Home,Night,Balanced,Loss
+Real Madrid,Paris Saint-Germain,Home,Night,Balanced,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Liverpool,Home,Day,Defensive,Draw
+Liverpool,Barcelona,Away,Night,Balanced,Draw
+Manchester United,Bayern Munich,Home,Night,Offensive,Win
+Bayern Munich,Manchester United,Away,Day,Defensive,Loss
+Juventus,Marseille,Home,Day,Balanced,Win
+Marseille,Juventus,Away,Night,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Night,Defensive,Win
+Liverpool,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Marseille,Home,Night,Defensive,Win
+Marseille,Manchester United,Away,Day,Balanced,Loss
+Paris Saint-Germain,Juventus,Home,Day,Offensive,Draw
+Juventus,Paris Saint-Germain,Away,Night,Balanced,Draw
+AC Milan,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Juventus,Home,Day,Offensive,Win
+Juventus,Manchester United,Away,Night,Defensive,Loss
+Paris Saint-Germain,Liverpool,Home,Night,Balanced,Draw
+Liverpool,Paris Saint-Germain,Away,Day,Offensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Balanced,Loss
+Real Madrid,Bayern Munich,Home,Night,Offensive,Loss
+Bayern Munich,Real Madrid,Away,Day,Balanced,Win
+Barcelona,Marseille,Home,Day,Defensive,Draw
+Marseille,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Liverpool,Home,Night,Defensive,Win
+Liverpool,Manchester United,Away,Day,Offensive,Loss
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Loss
+Juventus,Paris Saint-Germain,Away,Night,Offensive,Win
+AC Milan,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Balanced,Loss
+Real Madrid,Bayern Munich,Home,Day,Offensive,Draw
+Bayern Munich,Real Madrid,Away,Night,Balanced,Draw
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Draw
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Loss
+Marseille,Barcelona,Away,Night,Offensive,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Balanced,Draw
+Paris Saint-Germain,Juventus,Home,Day,Offensive,Win
+Juventus,Paris Saint-Germain,Away,Night,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Balanced,Loss
+Manchester United,Juventus,Home,Day,Offensive,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Balanced,Win
+Liverpool,Paris Saint-Germain,Away,Day,Offensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Marseille,Home,Day,Offensive,Loss
+Marseille,Barcelona,Away,Night,Balanced,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Loss
+Juventus,Paris Saint-Germain,Away,Night,Offensive,Win
+AC Milan,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Marseille,Home,Day,Offensive,Loss
+Marseille,Barcelona,Away,Night,Balanced,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Win
+Juventus,Paris Saint-Germain,Away,Night,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Marseille,Home,Day,Offensive,Loss
+Marseille,Barcelona,Away,Night,Balanced,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Draw
+Juventus,Paris Saint-Germain,Away,Night,Offensive,Win
+AC Milan,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Win
+Juventus,Manchester United,Away,Night,Defensive,Loss
+Paris Saint-Germain,Liverpool,Home,Night,Balanced,Draw
+Liverpool,Paris Saint-Germain,Away,Day,Offensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Balanced,Loss
+Real Madrid,Bayern Munich,Home,Night,Offensive,Win
+Bayern Munich,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Marseille,Home,Day,Defensive,Loss
+Marseille,Barcelona,Away,Night,Offensive,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Win
+Juventus,Paris Saint-Germain,Away,Night,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Marseille,Home,Day,Offensive,Loss
+Marseille,Barcelona,Away,Night,Balanced,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Draw
+Juventus,Paris Saint-Germain,Away,Night,Offensive,Win
+AC Milan,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Loss
+Real Madrid,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Real Madrid,Away,Night,Offensive,Draw
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Win
+Juventus,Manchester United,Away,Night,Defensive,Loss
+Paris Saint-Germain,Liverpool,Home,Night,Balanced,Draw
+Liverpool,Paris Saint-Germain,Away,Day,Offensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Defensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Balanced,Loss
+Real Madrid,Bayern Munich,Home,Night,Offensive,Win
+Bayern Munich,Real Madrid,Away,Day,Balanced,Loss
+Barcelona,Marseille,Home,Day,Defensive,Loss
+Marseille,Barcelona,Away,Night,Offensive,Win
+Manchester United,Liverpool,Home,Night,Defensive,Draw
+Liverpool,Manchester United,Away,Day,Offensive,Draw
+Paris Saint-Germain,Juventus,Home,Day,Balanced,Win
+Juventus,Paris Saint-Germain,Away,Night,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Night,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Day,Offensive,Win
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Marseille,Home,Night,Defensive,Win
+Marseille,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Juventus,Home,Day,Balanced,Draw
+Juventus,Manchester United,Away,Night,Defensive,Draw
+Paris Saint-Germain,Liverpool,Home,Night,Offensive,Win
+Liverpool,Paris Saint-Germain,Away,Day,Defensive,Loss
+AC Milan,Borussia Dortmund,Home,Day,Balanced,Loss
+Borussia Dortmund,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Bayern Munich,Home,Night,Defensive,Win
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Barcelona,Away,Night,Defensive,Loss
+Manchester United,Juventus,Home,Night,Balanced,Draw
+Juventus,Manchester United,Away,Day,Offensive,Draw
+AC Milan,Marseille,Home,Day,Balanced,Win
+Marseille,AC Milan,Away,Night,Defensive,Loss
+Liverpool,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Liverpool,Away,Day,Defensive,Loss
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Defensive,Draw
+AC Milan,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Balanced,Loss
+Paris Saint-Germain,Liverpool,Home,Day,Defensive,Win
+Liverpool,Paris Saint-Germain,Away,Night,Offensive,Loss
+Real Madrid,Manchester United,Home,Night,Offensive,Draw
+Manchester United,Real Madrid,Away,Day,Defensive,Draw
+Barcelona,AC Milan,Home,Day,Balanced,Win
+AC Milan,Barcelona,Away,Night,Offensive,Loss
+Juventus,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Juventus,Away,Day,Offensive,Loss
+Paris Saint-Germain,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Paris Saint-Germain,Away,Night,Defensive,Draw
+Liverpool,Marseille,Home,Night,Offensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Liverpool,Home,Day,Defensive,Win
+Liverpool,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Barcelona,Away,Day,Defensive,Loss
+Manchester United,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Marseille,Home,Day,Offensive,Win
+Marseille,Juventus,Away,Night,Defensive,Loss
+Real Madrid,AC Milan,Home,Night,Balanced,Win
+AC Milan,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Liverpool,Home,Day,Defensive,Draw
+Liverpool,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Offensive,Loss
+Paris Saint-Germain,Marseille,Home,Day,Balanced,Draw
+Marseille,Paris Saint-Germain,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Paris Saint-Germain,Home,Day,Offensive,Win
+Paris Saint-Germain,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,AC Milan,Home,Night,Defensive,Win
+AC Milan,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Manchester United,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Liverpool,Marseille,Home,Day,Offensive,Win
+Marseille,Liverpool,Away,Night,Defensive,Loss
+Real Madrid,Juventus,Home,Night,Balanced,Draw
+Juventus,Real Madrid,Away,Day,Offensive,Draw
+Barcelona,Bayern Munich,Home,Day,Defensive,Win
+Bayern Munich,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Paris Saint-Germain,Home,Night,Balanced,Draw
+Paris Saint-Germain,Manchester United,Away,Day,Defensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Defensive,Loss
+Liverpool,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Liverpool,Away,Day,Offensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Draw
+Marseille,Barcelona,Away,Night,Offensive,Draw
+Juventus,Manchester United,Home,Night,Defensive,Win
+Manchester United,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Real Madrid,Away,Night,Defensive,Loss
+AC Milan,Liverpool,Home,Night,Balanced,Draw
+Liverpool,AC Milan,Away,Day,Offensive,Draw
+Bayern Munich,Marseille,Home,Day,Defensive,Win
+Marseille,Bayern Munich,Away,Night,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Defensive,Loss
+Barcelona,Juventus,Home,Day,Balanced,Draw
+Juventus,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Real Madrid,Home,Night,Defensive,Win
+Real Madrid,Manchester United,Away,Day,Offensive,Loss
+Juventus,Paris Saint-Germain,Home,Day,Balanced,Draw
+Paris Saint-Germain,Juventus,Away,Night,Offensive,Draw
+Liverpool,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Liverpool,Away,Day,Balanced,Loss
+AC Milan,Barcelona,Home,Day,Offensive,Draw
+Barcelona,AC Milan,Away,Night,Defensive,Draw
+Borussia Dortmund,Marseille,Home,Night,Offensive,Win
+Marseille,Borussia Dortmund,Away,Day,Defensive,Loss
+Real Madrid,Liverpool,Home,Day,Balanced,Win
+Liverpool,Real Madrid,Away,Night,Offensive,Loss
+Juventus,Manchester United,Home,Night,Defensive,Win
+Manchester United,Juventus,Away,Day,Offensive,Loss
+Paris Saint-Germain,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Paris Saint-Germain,Away,Night,Defensive,Draw
+Barcelona,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Barcelona,Away,Day,Defensive,Loss
+AC Milan,Marseille,Home,Day,Balanced,Loss
+Marseille,AC Milan,Away,Night,Offensive,Win
+Real Madrid,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Bayern Munich,Home,Day,Offensive,Win
+Bayern Munich,Barcelona,Away,Night,Defensive,Loss
+Manchester United,Juventus,Home,Night,Balanced,Draw
+Juventus,Manchester United,Away,Day,Offensive,Draw
+AC Milan,Marseille,Home,Day,Balanced,Win
+Marseille,AC Milan,Away,Night,Defensive,Loss
+Liverpool,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Liverpool,Away,Day,Defensive,Loss
+Real Madrid,Bayern Munich,Home,Day,Balanced,Win
+Bayern Munich,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Juventus,Home,Night,Defensive,Win
+Juventus,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Marseille,Home,Day,Balanced,Draw
+Marseille,Manchester United,Away,Night,Defensive,Draw
+AC Milan,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,AC Milan,Away,Day,Balanced,Loss
+Paris Saint-Germain,Liverpool,Home,Day,Defensive,Win
+Liverpool,Paris Saint-Germain,Away,Night,Offensive,Loss
+Real Madrid,Manchester United,Home,Night,Offensive,Draw
+Manchester United,Real Madrid,Away,Day,Defensive,Draw
+Barcelona,AC Milan,Home,Day,Balanced,Win
+AC Milan,Barcelona,Away,Night,Offensive,Loss
+Juventus,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Juventus,Away,Day,Offensive,Loss
+Paris Saint-Germain,Bayern Munich,Home,Day,Balanced,Draw
+Bayern Munich,Paris Saint-Germain,Away,Night,Defensive,Draw
+Liverpool,Marseille,Home,Night,Offensive,Win
+Marseille,Liverpool,Away,Day,Balanced,Loss
+Real Madrid,Liverpool,Home,Day,Defensive,Win
+Liverpool,Real Madrid,Away,Night,Offensive,Loss
+Barcelona,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Barcelona,Away,Day,Defensive,Loss
+Manchester United,AC Milan,Home,Day,Balanced,Draw
+AC Milan,Manchester United,Away,Night,Offensive,Draw
+Paris Saint-Germain,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Paris Saint-Germain,Away,Day,Balanced,Loss
+Juventus,Marseille,Home,Day,Offensive,Win
+Marseille,Juventus,Away,Night,Defensive,Loss
+Real Madrid,AC Milan,Home,Night,Balanced,Win
+AC Milan,Real Madrid,Away,Day,Offensive,Loss
+Barcelona,Liverpool,Home,Day,Defensive,Draw
+Liverpool,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Borussia Dortmund,Home,Night,Defensive,Win
+Borussia Dortmund,Manchester United,Away,Day,Offensive,Loss
+Paris Saint-Germain,Marseille,Home,Day,Balanced,Draw
+Marseille,Paris Saint-Germain,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Paris Saint-Germain,Home,Day,Offensive,Win
+Paris Saint-Germain,Real Madrid,Away,Night,Defensive,Loss
+Barcelona,AC Milan,Home,Night,Defensive,Win
+AC Milan,Barcelona,Away,Day,Offensive,Loss
+Manchester United,Borussia Dortmund,Home,Day,Balanced,Draw
+Borussia Dortmund,Manchester United,Away,Night,Offensive,Draw
+Juventus,Bayern Munich,Home,Night,Defensive,Win
+Bayern Munich,Juventus,Away,Day,Balanced,Loss
+Liverpool,Marseille,Home,Day,Offensive,Win
+Marseille,Liverpool,Away,Night,Defensive,Loss
+Real Madrid,Juventus,Home,Night,Balanced,Draw
+Juventus,Real Madrid,Away,Day,Offensive,Draw
+Barcelona,Bayern Munich,Home,Day,Defensive,Win
+Bayern Munich,Barcelona,Away,Night,Offensive,Loss
+Manchester United,Paris Saint-Germain,Home,Night,Balanced,Draw
+Paris Saint-Germain,Manchester United,Away,Day,Defensive,Draw
+AC Milan,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,AC Milan,Away,Night,Defensive,Loss
+Liverpool,Paris Saint-Germain,Home,Night,Defensive,Win
+Paris Saint-Germain,Liverpool,Away,Day,Offensive,Loss
+Barcelona,Marseille,Home,Day,Balanced,Draw
+Marseille,Barcelona,Away,Night,Offensive,Draw
+Juventus,Manchester United,Home,Night,Defensive,Win
+Manchester United,Juventus,Away,Day,Balanced,Loss
+Real Madrid,Borussia Dortmund,Home,Day,Offensive,Win
+Borussia Dortmund,Real Madrid,Away,Night,Defensive,Loss
+AC Milan,Liverpool,Home,Night,Balanced,Draw
+Liverpool,AC Milan,Away,Day,Offensive,Draw
+Bayern Munich,Marseille,Home,Day,Defensive,Win
+Marseille,Bayern Munich,Away,Night,Offensive,Loss
+Paris Saint-Germain,Borussia Dortmund,Home,Night,Offensive,Win
+Borussia Dortmund,Paris Saint-Germain,Away,Day,Defensive,Loss
+Barcelona,Juventus,Home,Day,Balanced,Draw
+Juventus,Barcelona,Away,Night,Offensive,Draw
+Manchester United,Real Madrid,Home,Night,Defensive,Win
+Real Madrid,Manchester United,Away,Day,Offensive,Loss
+
