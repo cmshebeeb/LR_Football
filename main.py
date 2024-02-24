@@ -105,5 +105,6 @@ input_bullet_points = f"Input Parameters:\n\
 plt.figure(figsize=(8, 6))
 plt.pie(result_probabilities, labels=result_classes, autopct='%1.1f%%', startangle=140)
 plt.title('Result Probabilities')
+plt.suptitle('AC Milan(Away) VS Juventus(Home)')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
